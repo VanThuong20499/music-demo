@@ -35,36 +35,6 @@ var app = {
             singer: 'Đen',
             path: './assets/music/song3.mp3',
             image:'./assets/img/song3.jpg'
-        },
-        {
-            name: 'Trời Ơi Con Chưa Muốn Chết',
-            singer: 'Đen',
-            path: './assets/music/song3.mp3',
-            image:'./assets/img/song3.jpg'
-        },
-        {
-            name: 'Trời Ơi Con Chưa Muốn Chết',
-            singer: 'Đen',
-            path: './assets/music/song3.mp3',
-            image:'./assets/img/song3.jpg'
-        },
-        {
-            name: 'Trời Ơi Con Chưa Muốn Chết',
-            singer: 'Đen',
-            path: './assets/music/song3.mp3',
-            image:'./assets/img/song3.jpg'
-        },
-        {
-            name: 'Trời Ơi Con Chưa Muốn Chết',
-            singer: 'Đen',
-            path: './assets/music/song3.mp3',
-            image:'./assets/img/song3.jpg'
-        },
-        {
-            name: 'Trời Ơi Con Chưa Muốn Chết',
-            singer: 'Đen',
-            path: './assets/music/song3.mp3',
-            image:'./assets/img/song3.jpg'
         }
     ],
     setSetting: function(key, value){
